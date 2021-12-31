@@ -4,11 +4,11 @@
   - Twitter: @daiksy
   - Facebook: daiksy
   - github: daiksy
-  - blog: https://daiksy.hatenablog.jp/
+  - blog: [https://daiksy.hatenablog.jp/](https://daiksy.hatenablog.jp/)
   - その他だいたいのインターネットのアカウントはdaiksyです
 
 ## 資格
-- https://www.scrumalliance.org/community/profile/dkasuya
+- [https://www.scrumalliance.org/community/profile/dkasuya](https://www.scrumalliance.org/community/profile/dkasuya)
   - Certified ScrumMaster®
   - Certified Scrum Product Owner®
   - Advanced - Certified ScrumMaster®
@@ -16,7 +16,7 @@
 
 ## 公式記録が存在する趣味
 - ルービックキューブを30秒くらいで解けます
-  - https://www.worldcubeassociation.org/persons/2019KASU01
+  - [https://www.worldcubeassociation.org/persons/2019KASU01](https://www.worldcubeassociation.org/persons/2019KASU01)
 
 ## 学歴
 - 2001年奈良大学文学部国文学科卒
@@ -38,7 +38,7 @@
   - 2018年11月~2019年12月
     - エンジニア組織開発支援
 - enPiT AiBiC
-  - https://aibic.enpit.jp/
+  - [https://aibic.enpit.jp/](https://aibic.enpit.jp/)
   - 2021年9月, 2020年9月, 2019年9月それぞれ4日間ずつ
   - 文科省の教育事業。東工大からの依頼で期間中のファシリテーションを担当
 
@@ -59,11 +59,11 @@
 - ScalaMatsuri2018
 - Agile Japan 2017京都サテライト
 - Scala福岡2017
-- 過去の登壇資料: https://speakerdeck.com/daiksy
+- 過去の登壇資料: [https://speakerdeck.com/daiksy](https://speakerdeck.com/daiksy)
 
 ### 執筆
 - エンジニアHub Scrum@Scaleの基本と実装 - Chatworkの実践に学ぶ「スケールするスクラム」の導入戦略
-  - https://eh-career.com/engineerhub/entry/2021/09/29/103000 
+  - [https://eh-career.com/engineerhub/entry/2021/09/29/103000](https://eh-career.com/engineerhub/entry/2021/09/29/103000)
 - Software Design2021年2月号 (技術評論社)
   - Web API設計・開発入門
   - 第4章を担当
@@ -75,9 +75,9 @@
 - Mackerelサーバ監視［実践］入門 (技術評論社)
   - 共著
 - Findy Engineer Labコラム
-  - https://engineer-lab.findy-code.io/coder-to-em
+  - [https://engineer-lab.findy-code.io/coder-to-em](https://engineer-lab.findy-code.io/coder-to-em)
 - ProductZine連載
-  - https://codezine.jp/article/corner/817
+  - [https://codezine.jp/article/corner/817](https://codezine.jp/article/corner/817)
   - 第1回の執筆と、それ以降のキュレーション
 
 ## 職務経歴
@@ -90,7 +90,7 @@
 - Mackerelチーム ディレクター
   - アプリケーションエンジニア/SRE/デザイナーのチームを取りまとめ、プロダクトのデリバリーに責任を持っていました。
   - 2018年7月にローンチから数えて200週連続リリースを達成し、それを牽引しました。ローンチから4年経ち、プロダクトのフェーズが素早い機能開発よりも、丁寧な開発で価値を出す局面に移行したと判断し、毎週連続リリースをストップする意思決定などを行いました。
-    - 詳細はこちら: https://mackerel.io/ja/blog/entry/announcement/20180705
+    - 詳細はこちら: [https://mackerel.io/ja/blog/entry/announcement/20180705](https://mackerel.io/ja/blog/entry/announcement/20180705)
   - ディレクター就任時は、事業全体でもエンジニアメインで10名程度のチームでしたが、現在ではエンジニア以外にもセールスや営業事務なども含めて30名の体制に拡大。セールスエンジニアをCRE(Customer Reliability Engineer)へとコンバートするなど、キャリア面での工夫なども行いつつ、単一チームで事業全体を担える体制の構築に貢献しました。
   - チームではかねてからスクラムを導入していましたが、エンジニアだけで13名を超える体制になり、今年からスクラムオブスクラムの体制に移行。ひとつのプロダクトバックログを共有しつつも、チームは複数にわかれてそれぞれプロジェクト制で動く体制を構築しました。
   - 現場ディレクションでは、Mackerelのロール内異常検知という機能で、社内でも例の少ない機械学習プロジェクトを指揮し、リリースの成功に導きました。機械学習プロジェクトは不確実性の高さから従来のマネージメント手法だけでは制御が難しいプロジェクトですが、機械学習プロジェクトの特性をキャッチアップし、現場のエンジニアからも評価されるマネージメントができました。
@@ -104,7 +104,7 @@
 
 ### 2014年~2017年
 - Mackerelチームアプリケーションエンジニア, その後サブディレクター
-- MackerelチームにScalaプログラマとしてジョイン。正式リリースの2ヶ月後で、ほぼプロダクトの立ち上げ期から関わっていることになります。代表的なものとしては、当時LinuxのみだったMackerelの対応OSをWindowsに対応させる開発、https://kcps-mackerel.io/ja/ というKDDIの環境専用のMackerelの開発などを主導しました。SIer時代のスキルや調整力を買われて、パートナー向けの開発を手掛けることが多かった気がします。
+- MackerelチームにScalaプログラマとしてジョイン。正式リリースの2ヶ月後で、ほぼプロダクトの立ち上げ期から関わっていることになります。代表的なものとしては、当時LinuxのみだったMackerelの対応OSをWindowsに対応させる開発、[https://kcps-mackerel.io/ja/](https://kcps-mackerel.io/ja/) というKDDIの環境専用のMackerelの開発などを主導しました。SIer時代のスキルや調整力を買われて、パートナー向けの開発を手掛けることが多かった気がします。
 - KDDI向けの開発などの社外向けのマネージメントを見込まれてサブディレクターになり、MackerelのオンプレミスからAWSへの移行や、新しい時系列データベースの開発をマネージメントの立場でサポートしました。
 
 ### 2012年~2014年

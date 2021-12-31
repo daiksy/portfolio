@@ -1,5 +1,3 @@
-# ポートフォリオ
-
 ![image](./img/self_image.png)
 
 - 氏名: 粕谷大輔

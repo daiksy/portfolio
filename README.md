@@ -1,6 +1,6 @@
 # ポートフォリオ
 
-![image](https://github.com/daiksy/portfolio/blob/main/img/self_image.png)
+![image](./img/self_image.png)
 
 - 氏名: 粕谷大輔
   - Twitter: @daiksy

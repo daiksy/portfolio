@@ -5,6 +5,7 @@
   - Facebook: daiksy
   - github: daiksy
   - blog: [https://daiksy.hatenablog.jp/](https://daiksy.hatenablog.jp/)
+  - 過去の登壇資料: https://speakerdeck.com/daiksy
   - その他だいたいのインターネットのアカウントはdaiksyです
 
 ## 資格

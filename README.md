@@ -15,7 +15,7 @@
   - Advanced - Certified ScrumMaster®
   - Certified Agile Leadership Essentials
   - Certified Agile Leadership Organizations
-- Scrum@Scale Practitioner™
+- Registered Scrum@Scale Practitioner™
 
 ## 公式記録が存在する趣味
 - ルービックキューブを30秒くらいで解けます

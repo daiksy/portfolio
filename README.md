@@ -47,7 +47,8 @@
 
 ## 代表的な講演・執筆など
 
-### 講演
+### 講演/登壇
+- Scrum Interaction 2022
 - Regional Scrum Gathering Tokyo 2022
 - Scrum Fest Osaka 2021
 - Developers Summit 2020
@@ -60,8 +61,6 @@
 - Developers Summit 2018
 - Developers Summit 2018 KANSAI 
 - ScalaMatsuri2018
-- Agile Japan 2017京都サテライト
-- Scala福岡2017
 - 過去の登壇資料: [https://speakerdeck.com/daiksy](https://speakerdeck.com/daiksy)
 
 ### 執筆

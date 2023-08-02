@@ -64,9 +64,14 @@
 - 過去の登壇資料: [https://speakerdeck.com/daiksy](https://speakerdeck.com/daiksy)
 
 ### 執筆
+- スクラムの拡張による組織づくり──複数のスクラムチームをScrum@Scaleで運用する (技術評論社)
+  - 書き下ろし単著 
+- Sofware Design 2023年8月号 (技術評論社)
+  - アジャイル開発の課題に立ち向かう
+  - 第2章を担当 
 - エンジニアHub Scrum@Scaleの基本と実装 - Chatworkの実践に学ぶ「スケールするスクラム」の導入戦略
   - [https://eh-career.com/engineerhub/entry/2021/09/29/103000](https://eh-career.com/engineerhub/entry/2021/09/29/103000)
-- Software Design2021年2月号 (技術評論社)
+- Software Design 2021年2月号 (技術評論社)
   - Web API設計・開発入門
   - 第4章を担当
 - Web+DB PRESS vol.119 (技術評論社)

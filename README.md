@@ -15,6 +15,7 @@
   - Advanced - Certified ScrumMaster®
   - Certified Agile Leadership Essentials
   - Certified Agile Leadership Organizations
+  - Certified Scrum Professional® - ScrumMaster
 - Registered Scrum@Scale Practitioner™
 
 ## 公式記録が存在する趣味
@@ -48,6 +49,7 @@
 ## 代表的な講演・執筆など
 
 ### 講演/登壇
+- Regional Scrum Gathering Tokyo 2024
 - Scrum Fest Fukuoka 2023
 - Scrum Interaction 2022
 - Regional Scrum Gathering Tokyo 2022
@@ -94,9 +96,12 @@
 - Chatwork エンジニアリングマネージャ/アジャイルコーチ
   - Chatworkのアーキテクチャ刷新プロジェクトにて、Scrum@Scaleを用いた組織づくりを行っています。
   - スクラムマスターやアジャイルコーチの採用責任を持っています。採用・育成を推進し、社内のアジャイル文化を整えています。2023年時点で社内に8名のスクラムマスター・アジャイルコーチがおり、お互いに知見を共有しあう「スクラムマスターギルド」を立ち上げました。
+  - これまでにアジャイルコーチの採用2名に成功しました。
   - ジョン・コッターの8アクセルを軸に、社内の開発組織を変革する組織変革チームを立ち上げました。
   - エンジニア組織でピープルマネジメントを担当し、20名ほどのメンバーを担当しています。
   - 新卒採用を担当し、書類選考・技術面接を担当しています。
+- Chatwork SRE部マネージャ(兼務)
+  - SREの採用にコミットメントし、2名の採用に成功しました。
 
 ### 2017年~2021年
 - Mackerelチーム ディレクター

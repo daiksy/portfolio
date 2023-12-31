@@ -65,7 +65,7 @@
 - ScalaMatsuri2018
 - 過去の登壇資料: [https://speakerdeck.com/daiksy](https://speakerdeck.com/daiksy)
 
-### 執筆
+### 著書/記事執筆
 - スクラムの拡張による組織づくり──複数のスクラムチームをScrum@Scaleで運用する (技術評論社)
   - 書き下ろし単著 
 - Sofware Design 2023年8月号 (技術評論社)

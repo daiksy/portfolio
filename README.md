@@ -13,8 +13,7 @@
   - Certified ScrumMaster®
   - Certified Scrum Product Owner®
   - Advanced - Certified ScrumMaster®
-  - Certified Agile Leadership Essentials
-  - Certified Agile Leadership Organizations
+  - Certified Agile Leader® 1
   - Certified Scrum Professional® - ScrumMaster
 - Registered Scrum@Scale Practitioner™
 

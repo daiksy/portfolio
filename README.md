@@ -49,6 +49,7 @@
 ## 代表的な講演・執筆など
 
 ### 講演/登壇
+- Scrum Fest Osaka 2024
 - Scrum Fest Fukuoka 2023
 - Scrum Interaction 2022
 - Regional Scrum Gathering Tokyo 2022

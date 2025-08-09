@@ -49,6 +49,7 @@
 ## 代表的な講演・執筆など
 
 ### 講演/登壇
+- Developers Summit 2025 Kansai
 - DevOpsDays Tokyo 2025 (Opening Keynote)
 - Engineering Manager Conference Japan 2025
 - Scrum Fest Osaka 2024
